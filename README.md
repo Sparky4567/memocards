@@ -8,8 +8,6 @@
 -   Press CTRL + P to open command menu.
 -   Choose generate memo
 
-## Results and note opening
-
 A png containing your text will be created within a "memos"
 
 ## Settings
