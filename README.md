@@ -8,7 +8,7 @@
 -   Press CTRL + P to open command menu.
 -   Choose generate memo
 
-A png containing your text will be created within a "memos"
+A png containing your text will be created within a "memos" folder
 
 ## Settings
 
